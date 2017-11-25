@@ -1,0 +1,6 @@
+duma hello_word
+inanis initium()
+{
+    scriboln("Alo mundo");
+
+}
